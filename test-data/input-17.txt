@@ -1,2 +1,4 @@
-GT4500,5,1,5,1  # Mindkét tároló mindig hibás
-TORPEDO,SINGLE
+GT4500,2,0,5,0  # Az elsődleges tárolóban 2 torpedó, a másodlagosban 5 torpedó
+TORPEDO,SINGLE  # Első tüzelés az elsődleges tárolóból
+TORPEDO,SINGLE  # Második tüzelés az elsődleges tárolóból, kiüríti azt
+TORPEDO,SINGLE  # Harmadik tüzelés, amelynek a másodlagos tárolót kell használnia
