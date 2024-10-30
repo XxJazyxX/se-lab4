@@ -1,2 +1,4 @@
-GT4500,1,0,1,0
-TORPEDO,SINGLE
+GT4500,5,0,5,0  # Létrehozás 5 torpedóval mindkét tárolóban és hibamentes működéssel
+TORPEDO,SINGLE  # Első lövés, primer tárolóból
+TORPEDO,SINGLE  # Második lövés, most a másodlagos tárolóból, hogy váltson
+TORPEDO,SINGLE  # Harmadik lövés, visszaváltás a primer tárolóra, mert másodlagos volt az utolsó

@@ -1,2 +1,4 @@
-SUCCESS  # <- GT4500
-SUCCESS  # <- TORPEDO
+SUCCESS  # <- GT4500 inicializálása sikeres
+SUCCESS  # <- TORPEDO, első lövés primer tárolóból sikeres
+SUCCESS  # <- TORPEDO, második lövés másodlagos tárolóból sikeres
+SUCCESS  # <- TORPEDO, harmadik lövés primer tárolóból sikeres
