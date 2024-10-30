@@ -1,0 +1,2 @@
+GT4500,5,1,5,1  # Mindkét tároló mindig hibás
+TORPEDO,SINGLE

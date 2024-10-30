@@ -1,0 +1,2 @@
+GT4500,5,1,5,0  # Elsődleges mindig hibás, másodlagos hibamentes
+TORPEDO,SINGLE
